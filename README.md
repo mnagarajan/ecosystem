@@ -10,4 +10,4 @@ Contributed voluntarily by members.
 ## Module-1 
 ### Chapter -1 
 ### Chapter -1 
-### Chapter -3 [Startup Ecosysystem !] (module1/chapter-3.md)
+### Chapter -3 [Startup Ecosysystem !] (http://startup.gen.in/module1/chapter-3.md)
