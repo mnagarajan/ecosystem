@@ -1,5 +1,5 @@
 # Chapter 3: Startup Ecosystem
-## Key points:
+## Key points:-
 ### 1. Innovation Ecosystem has two aspects : Academic and Business side. 
 The academic/ theoretical perspective consists of talent, scientists, research and theoretics whereas business side consists of attorney,planners,analysts , experts and corporate people.
 
